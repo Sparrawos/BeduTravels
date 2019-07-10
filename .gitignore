@@ -1,0 +1,5 @@
+
+
+#Este el archivo gitignore, aqui debemos nose colocar la lista de archivos que no deseamos deseamos hacer tracking 
+/images
+
